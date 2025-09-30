@@ -26,4 +26,4 @@ hayley.hassler@yale.edu<br>
 
 This directory contains Python code calculations for Townsend et al. 2025.
 
-~/[elder_binannual_boosting](https://github.com/hhassle/Townsend_et_al_2025/tree/main/elder_biannual_boosting)/ contains python code and output files for cumulative probabilities of breakthrough infection following alternative biannual booster administration for elder populations specified in main text.
+~/[elder_biannual_boosting](https://github.com/hhassle/Townsend_et_al_2025/tree/main/elder_biannual_boosting)/ contains python code and output files for cumulative probabilities of breakthrough infection following alternative biannual booster administration for elder populations specified in main text.
